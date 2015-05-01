@@ -3,13 +3,13 @@
 Link the bar.css stylesheet:
 
 ```
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/skill-bar.css">
 ```
 
 and include the bar.js script:
 
 ```
-<script src="js/skills-bar.js"></script>
+<script src="js/skill-bar.js"></script>
 ```
 
 ## Usage
