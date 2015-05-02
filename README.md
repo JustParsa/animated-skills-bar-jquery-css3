@@ -1,12 +1,12 @@
 # animated-skills-bar-jquery-css3
 ## Setup
-Link the bar.css stylesheet:
+Link the skill-bar.css stylesheet:
 
 ```
     <link rel="stylesheet" href="css/skill-bar.css">
 ```
 
-and include the bar.js script:
+and include the skill-bar.js script:
 
 ```
 <script src="js/skill-bar.js"></script>
